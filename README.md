@@ -41,4 +41,3 @@ LCD line 1 shows `Temp:025C G:090`; line 2 shows temperature raw count R and com
 The nominal temperature step is about 1.95 C per ADC count. Earlier room-temperature and cross-channel readings were suspicious; calibrated accuracy remains unverified. Filtering does not fix wiring, reference, supply or sensor errors. MQ2 warmup is not inhibited in firmware. NE555 output HIGH margin and direct relay-input drive margins require measurement. This is an educational prototype, not a certified gas alarm.
 
 The source's old `DEFINE(LCD_ONLY)` comment is stale: this final source has no such conditional and defining it does NOT disable relay outputs. The working source is preserved unchanged.
-

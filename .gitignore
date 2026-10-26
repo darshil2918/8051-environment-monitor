@@ -1,0 +1,10 @@
+firmware/environment_monitor/
+*.obj
+*.lst
+*.m51
+*.bak
+*.uvgui*
+*.uvopt*
+__pycache__/
+.DS_Store
+Thumbs.db

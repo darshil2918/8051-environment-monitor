@@ -1,0 +1,2 @@
+326e9af8e2086d06826ae106842808bcc656146f403f786bc0553cf4d961fbbb  firmware/test.c
+a34c20a57a60705fa68d3d70c74a25d421c65fbed8770a22dadb43211c687a5e  releases/environment_monitor.hex
