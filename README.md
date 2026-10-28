@@ -4,7 +4,7 @@ College hardware demonstration using an AT89S52, ADC0808, LM35 and MQ2. It displ
 
 ## Status
 
-The team reports successful LCD operation, temperature-triggered fan operation and gas-triggered buzzer operation. These are qualitative observations, not calibrated accuracy or gas-safety validation. Proteus work is incomplete and deferred. The keypad was removed with faculty approval.
+Successful LCD operation, temperature-triggered fan operation and gas-triggered buzzer operation. These are qualitative observations, not calibrated accuracy or gas-safety validation.
 
 ## Files
 
